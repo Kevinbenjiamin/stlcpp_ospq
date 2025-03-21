@@ -9,3 +9,6 @@
 ### OSQP demo
 
 参考chh
+cappad
+ipopt
+测试都已通过
